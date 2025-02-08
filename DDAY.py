@@ -8,11 +8,11 @@ ACCESS_CODES = ["DDAYYOONGI", "AGUSTD", "SUGA123"]
 
 # 30 Multiple-Choice Questions about D-DAY Album
 questions = [
-    {"question": "What is the title track of Yoongi's album D-DAY?", "options": ["Haegeum", "Amygdala", "Snooze"], "answer": "Haegeum"},
+    {"question": "What is the title track of Yoongi's album D-DAY?", "options": ["Haegeum", "Moonlight", "Snooze"], "answer": "Haegeum"},
     {"question": "What is the meaning of 'Haegeum'?", "options": ["A traditional Korean instrument", "Freedom", "Both"], "answer": "Both"},
     {"question": "Which song on D-DAY features IU?", "options": ["People Pt. 2", "SDL", "Snooze"], "answer": "People Pt. 2"},
     {"question": "What is the first track on D-DAY?", "options": ["D-Day", "Haegeum", "Amygdala"], "answer": "D-Day"},
-    {"question": "What track from D-DAY encourages listeners to embrace their true selves?", "options": ["Polar Night", "Haegeum", "Amygdala"], "answer": "Polar Night"},
+    {"question": "What track from D-DAY encourages listeners to embrace their true selves?", "options": ["Polar Night", "Interlude: Dawn", "Amygdala"], "answer": "Polar Night"},
     {"question": "Which track highlights themes of determination?", "options": ["Amygdala", "SDL", "Snooze"], "answer": "Amygdala"},
     {"question": "What is the interlude track on D-DAY?", "options": ["SDL", "Amygdala", "People Pt. 2"], "answer": "SDL"},
     {"question": "What is the final track on D-DAY?", "options": ["Life Goes On", "Snooze", "Amygdala"], "answer": "Life Goes On"},
